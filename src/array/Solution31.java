@@ -7,9 +7,7 @@ class Solution31 {
     public void nextPermutation(int[] nums) {
         int startSwap = 0;
         for (int i = nums.length - 2; i >= 0; i--) {
-            if (nums[i] >= nums[i+1]) {
-                continue;
-            } else {
+            if (nums[i] < nums[i + 1]) {
                 int temp = nums[i];
                 int min = 101;
                 int minIndex = -1;
