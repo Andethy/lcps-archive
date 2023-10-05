@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Stack;
 
 /**
  * Test class for experimentation
@@ -9,5 +10,7 @@ public class Main {
         HashMap<Character, Integer> map = new HashMap<>();
         int[] y = new int[10];
         y.clone();
+        Stack<Character> stack = new Stack<>();
+
     }
 }

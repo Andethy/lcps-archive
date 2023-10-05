@@ -3,6 +3,9 @@ package neetcode.arrays.hashing;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * <a href="https://leetcode.com/problems/longest-consecutive-sequence">Longest Consecutive Sequence</a>
+ */
 class Solution128 {
     public int longestConsecutive(int[] nums) {
         if (nums.length == 0) {

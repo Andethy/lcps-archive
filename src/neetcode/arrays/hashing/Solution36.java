@@ -2,6 +2,9 @@ package neetcode.arrays.hashing;
 
 import java.util.HashSet;
 
+/**
+ * <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a>
+ */
 class Solution36 {
     public boolean isValidSudoku(char[][] board) {
         HashSet<Character>[] rows = new HashSet[9];
