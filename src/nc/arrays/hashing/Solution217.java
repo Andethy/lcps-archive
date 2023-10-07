@@ -1,4 +1,4 @@
-package neetcode.arrays.hashing;
+package nc.arrays.hashing;
 
 import java.util.HashSet;
 import java.util.Set;

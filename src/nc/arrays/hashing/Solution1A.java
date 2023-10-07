@@ -1,4 +1,4 @@
-package neetcode.arrays.hashing;
+package nc.arrays.hashing;
 
 class Solution1A {
     public int[] twoSum(int[] nums, int target) {

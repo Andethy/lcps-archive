@@ -1,4 +1,4 @@
-package neetcode.arrays.hashing;
+package nc.arrays.hashing;
 
 /**
  * <a href="https://leetcode.com/problems/product-of-array-except-self/submissions/">Product of Array Except Self</a>

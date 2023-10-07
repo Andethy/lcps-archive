@@ -1,4 +1,4 @@
-package neetcode.stack;
+package nc.stack;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package neetcode.arrays.hashing;
+package nc.arrays.hashing;
 
 /**
  * Note: much better solution
