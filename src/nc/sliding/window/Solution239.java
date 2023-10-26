@@ -3,6 +3,9 @@ package nc.sliding.window;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+/**
+ * <a href="https://leetcode.com/problems/sliding-window-maximum">Sliding Window Maximum</a>
+ */
 class Solution239 {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int[] result = new int[nums.length - k + 1];
