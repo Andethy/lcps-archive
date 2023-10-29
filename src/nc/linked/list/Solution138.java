@@ -3,6 +3,9 @@ package nc.linked.list;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * <a href="https://leetcode.com/problems/copy-list-with-random-pointer/">Copy List with Random Pointer</a>
+ */
 class Solution138 {
 
     public class Node {
