@@ -4,13 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class Solution981 {
-    /**
-     * Your TimeMap object will be instantiated and called as such:
-     * TimeMap obj = new TimeMap();
-     * obj.set(key,value,timestamp);
-     * String param_2 = obj.get(key,timestamp);
-     */
+/**
+ * <a href="https://leetcode.com/problems/time-based-key-value-store">Time Based Key-Value Store</a>
+ */
+public class Solution981A {
     class TimeMap {
         private class CustomEntry<K, V> {
             public K key;
@@ -56,6 +53,4 @@ public class Solution981 {
             }
         }
     }
-
-
 }
