@@ -1,5 +1,8 @@
 package nc.trees;
 
+/**
+ * <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst">Kth Smallest Element in a BST</a>
+ */
 class Solution230 {
     public class TreeNode {
         int val;
@@ -13,7 +16,7 @@ class Solution230 {
             this.right = right;
         }
     }
-    
+
     int count;
 
     public int kthSmallest(TreeNode root, int k) {
