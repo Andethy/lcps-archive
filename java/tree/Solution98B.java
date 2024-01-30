@@ -1,4 +1,4 @@
-package binary.search.tree;
+package tree;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
@@ -6,11 +6,11 @@ import java.util.Queue;
 class Solution98B {
     private static class TreeNode {
         int val;
-        Solution98B.TreeNode left;
-        Solution98B.TreeNode right;
+        TreeNode left;
+        TreeNode right;
         TreeNode() {}
         TreeNode(int val) { this.val = val; }
-        TreeNode(int val, Solution98B.TreeNode left, Solution98B.TreeNode right) {
+        TreeNode(int val, TreeNode left, TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;

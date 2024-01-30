@@ -1,6 +1,4 @@
-package binary.search.tree;
-
-import java.util.Queue;
+package tree;
 
 class Solution98A {
     private static class TreeNode {

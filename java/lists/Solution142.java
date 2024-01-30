@@ -1,4 +1,4 @@
-package linked.lists;
+package lists;
 
 /**
  * <a href="https://leetcode.com/problems/linked-list-cycle-ii">Linked List Cycle II</a>

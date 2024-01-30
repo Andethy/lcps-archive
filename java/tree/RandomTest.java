@@ -1,4 +1,4 @@
-package binary.search.tree;
+package tree;
 
 public class RandomTest {
 

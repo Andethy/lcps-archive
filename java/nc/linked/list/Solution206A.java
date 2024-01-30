@@ -1,7 +1,5 @@
 package nc.linked.list;
 
-import linked.lists.Solution142;
-
 /**
  * <a href="https://leetcode.com/problems/reverse-linked-list">Reverse Linked List</a>
  */
